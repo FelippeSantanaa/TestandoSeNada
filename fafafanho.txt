@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 felipe gay
+=======
+fanho
+>>>>>>> aab2f642d9bfcc6d01e57fa45b3c18c958c95b23
